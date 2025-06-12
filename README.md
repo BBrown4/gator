@@ -17,7 +17,7 @@ go install github.com/bbrown4/gator
 Make sure your Go bin directory is in your `PATH`
 
 ### Requirements
-- Go 1.24+
+- Go 1.23+
 - PostgreSQL 15+
 
 ### Setup
